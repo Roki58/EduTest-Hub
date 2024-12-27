@@ -4,14 +4,14 @@
 ### Homepage
 ![homepage snap](https://github.com/sumitkumar1503/onlinequiz/blob/master/static/screenshots/homepage.png?raw=true)
 ### Admin Dashboard
-![dashboard snap](<img width="629" alt="admin" src="https://github.com/user-attachments/assets/26d579cc-b0d2-44ad-ba42-19c276038432" />)
+<img width="629" alt="admin" src="https://github.com/user-attachments/assets/26d579cc-b0d2-44ad-ba42-19c276038432" />
 
 ### Exam Rules
 ![invoice snap](https://github.com/sumitkumar1503/onlinequiz/blob/master/static/screenshots/rules.png?raw=true)
 ### Exam
 ![doctor snap](https://github.com/sumitkumar1503/onlinequiz/blob/master/static/screenshots/exam.png?raw=true)
 ### Teacher
-![doctor snap](<img width="625" alt="teacher" src="https://github.com/user-attachments/assets/607ae299-6913-4b32-8458-96b30cd248f4" />)
+<img width="625" alt="teacher" src="https://github.com/user-attachments/assets/607ae299-6913-4b32-8458-96b30cd248f4" />
 
 ---
 ## Functions
