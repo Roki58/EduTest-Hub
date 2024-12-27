@@ -2,7 +2,8 @@
 ---
 ## screenshots
 ### Homepage
-![homepage snap](https://github.com/sumitkumar1503/onlinequiz/blob/master/static/screenshots/homepage.png?raw=true)
+<img width="640" alt="homapage" src="https://github.com/user-attachments/assets/e82a7510-53bd-49b3-a992-52ebec689089" />
+
 ### Admin Dashboard
 <img width="629" alt="admin" src="https://github.com/user-attachments/assets/26d579cc-b0d2-44ad-ba42-19c276038432" />
 
